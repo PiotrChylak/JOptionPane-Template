@@ -13,6 +13,8 @@ public class Main{
   //JOptionPane.showMessageDialog(null, "really?", "title", JOptionPane.QUESTION_MESSAGE);
   //JOptionPane.showMessageDialog(null, "Your computer has a VIRUS!", "title", JOptionPane.WARNING_MESSAGE);
   //JOptionPane.showMessageDialog(null, "CALL TECH SUPPORT OR ELSE!", "title", JOptionPane.ERROR_MESSAGE);
+
+  //JOptionPane.showConfrimDialog(null, "bro do you even code?", title, JOptionPane.YES_NO_CANCEL_OPTION); // YES - returns 0, NO - returns 1, CANCEL - returns 2, X - returns -1;
   
     
   //int answer = JOptionPane.showConfirmDialog(null, "bro, do you even code?");
